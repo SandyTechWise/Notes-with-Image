@@ -1,0 +1,10 @@
+.detail {
+    text-align: center;
+  }
+  
+  .detail img {
+    width: 100%;
+    overflow: hidden;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+  }
